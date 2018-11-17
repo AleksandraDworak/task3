@@ -1,3 +1,12 @@
+* {
+  font-family: Muli;
+  text-align: center; }
 
+h1 {
+  color: #5C6BC0;
+  padding: 10px; }
+
+div {
+  padding: 30px; }
 
 /*# sourceMappingURL=style.css.map */
